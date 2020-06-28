@@ -1,5 +1,5 @@
 
-const connStr = "Server=localhost;Database=VMD;User Id=sa;Password=VMD22041748;";
+const connStr = "Server=localhost;Database=VMD_Drogafor;User Id=sa;Password=VMD22041748;";
 const sql = require("mssql");
 
 sql.connect(connStr)
